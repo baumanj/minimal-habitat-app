@@ -1,4 +1,4 @@
-pkg_origin=core
+pkg_origin=baumanj
 pkg_name=minimial-habitat-app
 pkg_version=0.1.0
 pkg_source=nosuchfile.tar.gz
